@@ -1,0 +1,19 @@
+# Backend
+php>=8.0
+
+# Database
+mysql>=8.0
+
+# Frontend Technologies
+# HTML, CSS, JavaScript, Bootstrap
+
+# Development Server
+apache>=2.4
+
+# Optional PHP Extensions
+php-mysqli
+php-pdo
+php-json
+
+# Recommended Environment
+# XAMPP / WAMP / MAMP
